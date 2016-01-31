@@ -1,0 +1,27 @@
+{
+  "name": "askozia-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "InfluxDB",
+    "Grafana",
+    "Monitoring",
+    "Астериск",
+    "Asterisk",
+    "Аскозия",
+    "Askozia",
+    "nodejs"
+  ],
+  "author": "Sergey Filkin",
+  "license": "ISC",
+  "dependencies": {
+    "asterisk-manager": "^0.1.15",
+    "influx": "^4.1.0",
+    "moment": "^2.10.6"
+  }
+}
